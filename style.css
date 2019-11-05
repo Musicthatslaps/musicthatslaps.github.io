@@ -3,5 +3,12 @@
 body{
 	h2{
 		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+		font-size: 10px;
+	}
+	div{
+	display: block;
+		border-width: 1000px;
+		background-color: #000000;
+		color:#FFFFFF;
 	}
 }
