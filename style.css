@@ -1,14 +1,16 @@
 @charset "UTF-8";
 /* CSS Document */
-body{
+
 	h2{
 		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 		font-size: 10px;
 	}
-	div{
+
+	.div {
+		
 	display: block;
 		border-width: 1000px;
 		background-color: #000000;
 		color:#FFFFFF;
 	}
-}
+
