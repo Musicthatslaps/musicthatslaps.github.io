@@ -3,14 +3,17 @@
 body {
 	margin: 0px;
 	padding: 0px;
+	border: 0px;
 }
 	h2{
 		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 		font-size: 10px;
 		margin-left: 50px;
 	}
-elipse {
-	align-content: center;
+svg {
+	margin-left: 1000px;
+	margin-bottom: 100px;
+	
 	
 }
 
@@ -20,8 +23,9 @@ elipse {
 		border-width: 2000px;
 		background-color: #000000;
 		color:#FFFFFF;
-		margin-top: 400px;
-		padding-top: 250px;
+		margin-top: 50px;
+		padding-top: 50px;
+		padding-bottom: 
 		
 	}
 
