@@ -8,7 +8,7 @@ body {
 	h2{
 		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 		font-size: 10px;
-		margin-left: 50px;
+		
 		
 	}
 svg {
@@ -26,7 +26,106 @@ svg {
 		color:#FFFFFF;
 		margin-top: 50px;
 		padding-top: 50px;
-		padding-bottom: 
 		
 	}
+.home {
+	display: block;
+	background-color: #FFFFFF;
+	transition: all 1s;
+	width:50px;
+	margin-left:50px;
+	padding-left:20px;
+	height: 25px;
+}
 
+.home:hover {
+	background-color:#FFF200;
+	
+    
+}
+.feed {
+	display: block;
+	background-color: #FFFFFF;
+	transition: all 1s;
+	width:50px;
+	margin-left:50px;
+	padding-left:20px;
+	padding-top: 2px;
+	height: 25px;
+	
+}
+
+.feed:hover {
+	background-color: #FFF200;
+	
+}
+.latesttracks{
+	display: block;
+	background-color: #FFFFFF;
+	transition: all 1s;
+	width:50px;
+	margin-left:50px;
+	padding-left:20px;
+	height: 25px;
+}
+.latesttracks:hover {
+	background-color: #FFF200;
+}
+
+.genres {
+	display: block;
+	background-color: #FFFFFF;
+	transition: all 1s;
+	width:50px;
+	margin-left:50px;
+	padding-left:20px;
+	padding-top:1px;
+	padding-bottom: 1px;
+	height: 25px;
+}
+
+.genres:hover {
+	background-color: #FFF200;
+}
+
+.forums {
+	display: block;
+	background-color: #FFFFFF;
+	transition: all 1s;
+	width:50px;
+	margin-left:50px;
+	padding-left:20px;
+	height: 25px;
+}
+
+.forums:hover {
+	background-color: #FFF200;
+}
+
+.myprofile {
+	display: block;
+	background-color: #FFFFFF;
+	transition: all 1s;
+	width:50px;
+	margin-left:50px;
+	padding-left:20px;
+	height: 25px;
+}
+
+.myprofile:hover {
+	background-color: #FFF200;
+}
+
+.about {
+	display: block;
+	background-color: #FFFFFF;
+	transition: all 1s;
+	width:50px;
+	margin-left:50px;
+	padding-left:20px;
+	height: 25px;
+}
+
+.about:hover {
+	background-color: #FFF200;
+}
