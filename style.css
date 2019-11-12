@@ -27,6 +27,10 @@ svg {
 		margin-top: 50px;
 		padding-top: 50px;
 		
+		font-family: rift-soft,sans-serif;
+		font-weight: 300;
+		font-style: normal;
+		
 	}
 .home {
 	display: block;
