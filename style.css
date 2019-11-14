@@ -153,15 +153,26 @@ p.footertext {
 }
 
 p.services {
-	margin-left: 300px;
+	margin-left: 400px;
 }
 .servicesinfo {
 	margin-left:30px;
 	display: flex;
-	flex-direction: row;
-}
-p.servicesdetailed {
-	margin: 0;
-	padding: 0;
+	flex-direction: column;
 }
 
+p.information {
+	margin-left: 400px;
+}
+
+.Infospecific {
+	margin-left: 30px;
+	display: flex;
+	flex-direction: column;
+}
+
+#social {
+	width: 100px;
+	height: 20px;
+	padding-left: 1000px;
+}
