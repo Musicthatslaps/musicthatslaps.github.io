@@ -8,11 +8,16 @@ body {
 
 	h2{
 		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
-		font-size: 10px;
+		font-size: 11px;
+		margin-bottom:10px;
 		
 		
 	}
-
+iframe {
+	position: absolute;
+	top:0px;
+	left:300px;
+}
 svg {
 	margin-left: 1000px;
 	margin-bottom: 100px;
