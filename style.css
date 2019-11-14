@@ -5,12 +5,14 @@ body {
 	padding: 0px;
 	border: 0px;
 }
+
 	h2{
 		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 		font-size: 10px;
 		
 		
 	}
+
 svg {
 	margin-left: 1000px;
 	margin-bottom: 100px;
@@ -38,6 +40,7 @@ svg {
 	transition: all 1s;
 	width:50px;
 	margin-left:50px;
+	padding-top:1px;
 	padding-left:20px;
 	height: 25px;
 }
@@ -133,3 +136,32 @@ svg {
 .about:hover {
 	background-color: #FFF200;
 }
+footer {
+	display: flex;
+	flex-direction: row
+}
+
+.contactinfo {
+	padding-left: 30px;
+	display: flex;
+	flex-direction: column;	
+}
+
+p.footertext {
+	margin-top: 0;
+	padding: 0;
+}
+
+p.services {
+	margin-left: 300px;
+}
+.servicesinfo {
+	margin-left:30px;
+	display: flex;
+	flex-direction: row;
+}
+p.servicesdetailed {
+	margin: 0;
+	padding: 0;
+}
+
