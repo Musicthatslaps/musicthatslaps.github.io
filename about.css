@@ -18,6 +18,13 @@ iframe {
 	top:0px;
 	left:600px;
 }
+p.aboutbio {
+	font-family: montserrat,sans-serif;
+	font-weight: 400;
+	font-size: 20px;
+	font-style: normal;
+	text-align: center;
+}
 svg {
 	margin-left: 1000px;
 	margin-bottom: 100px;
@@ -130,7 +137,7 @@ svg {
 
 .about {
 	display: block;
-	background-color: #FFFFFF;
+	background-color: #FFF200;
 	transition: all 1s;
 	width:50px;
 	margin-left:50px;
