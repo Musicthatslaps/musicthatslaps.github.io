@@ -16,7 +16,7 @@ body {
 iframe {
 	position: absolute;
 	top:0px;
-	left:400px;
+	left:600px;
 }
 
 img {
@@ -24,6 +24,12 @@ img {
 	margin-right: auto;
 	width: 600px;
 	display: block;
+}
+
+p.caption {
+	margin-left: 1000px;
+	font-size: 10px;
+	margin-bottom:30px;
 }
 
 p.aboutbio {
